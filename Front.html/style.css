@@ -1,0 +1,211 @@
+.button{
+
+              background-color: white;
+              color: black;
+              padding: 10px 30px;
+              border: none;
+              font-family:'Franklin Gothic Medium';
+              font-weight: 30;
+              font-size: 15px;
+              margin-bottom: 25px;
+
+}
+.button1{
+              background-color: white;
+              padding: 9px 18px;
+              border: none;
+              font-family:'Franklin Gothic Medium';
+              font-weight: 30;
+              font-size: 15px;
+
+}
+#s{
+              width: 20%;
+              height: 30px;
+}
+#B1{
+              border: none;
+              background-color: white;
+              text-align: right;
+              font-size: 15px;
+
+}
+h3{
+              color: gray;
+              border: 10px double pink;
+              text-align:center;
+              font-size: 200%;
+              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+h5{ 
+              font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+              text-align: justify;
+              font-size: 100%;
+}
+#f{
+              border: none;
+              color: brown;
+}
+#pc{
+              color:deeppink
+}
+p{
+              color: black;
+              font-family:'Times New Roman', Times, serif;
+              font-weight: 900;
+}
+span{
+              margin-left: 18px;
+
+}
+.button:hover{
+              cursor: pointer;
+              background-color: rgb(244, 158, 171);
+              color: white;
+              transition: 1s;
+
+}
+.button1:hover{
+              cursor: pointer;
+              background-color: rgb(245, 196, 107);
+              color: white;
+              transition: 1s;
+}
+#f:hover{
+              cursor: pointer;
+
+}
+.P1{
+              margin-top: 2%;
+              margin-left: 1%;
+}
+#Br1{
+              border-radius: 30px;
+}
+h3:hover{
+             background-color: black;
+             color: white;
+             font-family:Georgia, 'Times New Roman', Times, serif;
+             font-weight: 1000;
+             border: 10px double orange;
+             transition: 1s;
+
+}
+.BO{
+              font-family:Georgia, 'Times New Roman', Times, serif;
+              font-weight: 600;
+              color: black;
+              font-size: 10px;
+
+}
+#CO{
+              margin-left: 35%;
+              font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+              font-size: 250%;
+}
+div{
+              margin-left: 1%;
+              margin-right: 1%;
+}
+#Li:hover{
+              cursor: pointer;
+}
+#Br1:hover{
+              cursor: pointer;
+}
+#Di{
+              margin-left: 10%;
+}
+#Di:hover{
+              cursor: pointer;
+}
+#PO{
+              margin-left: 2%;
+              margin-right: 2%;
+}
+#Mid{
+              margin-left:33.3%;
+}
+.Log{
+              margin-top: 3%;
+              margin-left: 35%;
+}
+
+#In{
+              width: 40%;
+              height: 30px;
+              margin-left: 2%;
+}
+sub{
+              color: gray;
+              margin-left: 2%;
+}
+a{
+              color: rgb(252, 132, 152);
+              font-size: 130%;
+              border: none;
+             
+}
+#B2{
+              height: 35px;
+              width: 80%;
+              margin-left: 13%;
+              background-color: rgb(245, 68, 97);
+              font-size: 110%;
+              border: none;
+              color: white;
+              font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#or{
+              color: gray;
+}
+#B2:hover{
+              cursor: pointer;
+}
+.Log{  
+          border: 10px solid pink;
+}
+#Photo{
+              margin-top: 60px;
+              margin-left: 550px;
+              margin-right: 550px;
+}
+#TextDesing{
+              font-size: 23px;
+              font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+              font-weight: 500%;
+              margin-left: 555px;
+              margin-right: 550px;
+              
+}
+#ColorT{
+              color: gray;
+}
+#InputDia{
+              width: 340px;
+              height: 25px;
+              margin-left: 39.5%;
+              margin-right: 40%;
+}
+#TextPink{
+              color: rgb(241, 77, 105);
+              font-size: 13px;
+              font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              border: none;
+}
+#TextS{
+              font-size: 13px;
+              font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+              font-weight: 550%;
+              margin-left: 540px;
+              margin-right: 400px;
+
+}
+
+#Bor{
+        color: rgb(164, 39, 58);  
+        background-color: plum;  
+}
+button{
+              border: none;
+}
